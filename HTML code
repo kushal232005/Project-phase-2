@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Air Quality Prediction Using ML</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #eef4f7;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #2e86c1;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            margin: 20px auto;
+            padding: 20px;
+            max-width: 800px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #2e86c1;
+        }
+        footer {
+            text-align: center;
+            padding: 15px;
+            background-color: #2e86c1;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Predicting Air Quality Level Using Advanced Machine Learning</h1>
+    <p>Environmental Monitoring Project</p>
+</header>
+
+<section>
+    <h2>Abstract</h2>
+    <p>
+        Air pollution poses a serious threat to environmental and public health. This project uses advanced machine learning algorithms to predict air quality levels based on various environmental and meteorological factors. The system is designed to support real-time monitoring and proactive decision-making.
+    </p>
+</section>
+
+<section>
+    <h2>Objectives</h2>
+    <ul>
+        <li>Develop a predictive model for air quality index (AQI).</li>
+        <li>Use supervised learning algorithms such as Random Forest, XGBoost, and LSTM.</li>
+        <li>Evaluate model accuracy using performance metrics like RMSE and R².</li>
+        <li>Enable proactive pollution control measures through timely predictions.</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Technologies Used</h2>
+    <ul>
+        <li>Python (Scikit-learn, TensorFlow, Keras)</li>
+        <li>Pandas, NumPy, Matplotlib</li>
+        <li>Jupyter Notebook</li>
+        <li>HTML/CSS (for report and visualization)</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Expected Outcomes</h2>
+    <p>
+        The developed system will offer accurate AQI predictions, assisting governments, researchers, and the public in monitoring and responding to air pollution effectively.
+    </p>
+</section>
+
+<footer>
+    <p>&copy; 2025 Environmental Monitoring Project | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
